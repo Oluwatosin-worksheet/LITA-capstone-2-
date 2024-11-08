@@ -14,14 +14,28 @@ Subscription Data: The primary dataset used for this analysis is the "Lita Capst
 - Sql server- Data Analysis
 - Power BI- Creating Reports
 
-  ### Data Cleaning/Preparation
+### Data Cleaning/Preparation
   ---
   In the initatl data preparation phase,i performed the following tasks
   1. Data loading and inspection
   2. Handling missing values
   3. Data cleaning and formatting
  
-  ### Exploratory Data Analysis
+ ### Exploratory Data Analysis
   ---
-  Exploratory Data Analysis inolved exploraing the customer subscripton data to answer key questions such as 
+  Exploratory Data Analysis inolved exploraing the customer subscripton data to answer key questions such as;
+  - What are the key Customer subscription trends?
+  - What are the most subscription type?
+
+### Pivot Summarization 
+---
+
+### Sql Queries 
+---
+
+### Data visualization 
+---
+
+
+    
   
